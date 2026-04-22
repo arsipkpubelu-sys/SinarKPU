@@ -1,16 +1,5 @@
 Sistem Informasi Penomoran Arsip Komisi Pemilihan Umum Kabupaten Belu
-<!DOCTYPE html>
-<html lang="id">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SINAR | Sistem Informasi Penomoran dan Arsip KPU</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <style>
-        body { 
-            font-family: 'Plus Jakarta Sans', sans-serif; 
-            background-image: url('uploaded:KPU.jpg-f2efe4a2-b4ed-4d2b-a27f-d2ddd2260bc7');
+ 
             background-size: cover;
             background-position: center;
             background-attachment: fixed;
