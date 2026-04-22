@@ -1,5 +1,3 @@
-[SINAR V3.1.html](https://github.com/user-attachments/files/26959997/SINAR.V3.1.html)
-# SinarKPU
 Sistem Informasi Penomoran Arsip Komisi Pemilihan Umum Kabupaten Belu
 <!DOCTYPE html>
 <html lang="id">
